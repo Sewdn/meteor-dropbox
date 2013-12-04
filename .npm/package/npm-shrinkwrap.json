@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "dropbox": {
+      "version": "0.10.2",
+      "dependencies": {
+        "open": {
+          "version": "0.0.4"
+        },
+        "xhr2": {
+          "version": "0.0.7"
+        }
+      }
+    }
+  }
+}

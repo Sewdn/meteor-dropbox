@@ -1,0 +1,10 @@
+{
+  "name": "dropbox",
+  "description": "Adds DropBox API both on client and server",
+  "homepage": "https://github.com/sewdn/meteor-dropbox",
+  "author": "Pieter Soudan",
+  "version": "0.0.1",
+  "git": "https://github.com/sewdn/meteor-dropbox.git",
+  "packages": {
+  }
+}
